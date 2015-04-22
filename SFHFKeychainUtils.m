@@ -32,6 +32,7 @@
 #endif
 
 #import "SFHFKeychainUtils.h"
+#import <Foundation/Foundation.h>
 #import <Security/Security.h>
 
 static NSString *SFHFKeychainUtilsErrorDomain = @"SFHFKeychainUtilsErrorDomain";
